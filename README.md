@@ -2,7 +2,7 @@
 
 **Author:** Laís de Souza Ziegler
 
-**Date:** June 2024
+**Date:** June 2025
 
 ## 1. Project Overview
 
